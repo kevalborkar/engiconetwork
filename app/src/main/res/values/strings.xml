@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EngicoNetwork</string>
+    <string name="title_activity_update_location">UpdateLocation</string>
+</resources>
